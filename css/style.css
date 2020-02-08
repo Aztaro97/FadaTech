@@ -1,0 +1,15 @@
+.X_padding{
+    padding: 0 20%;
+}
+
+@media only screen and (max-width:990px) {
+    .X_padding {
+        padding: 0 5%;
+    }
+    .home_title {
+        display: none;
+    }
+    img {
+        padding-bottom: 1rem;
+    }
+}
