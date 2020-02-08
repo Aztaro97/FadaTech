@@ -5,6 +5,14 @@ nav {
     border-bottom: 5px solid #28A745;
     background: rgba(52, 58, 64, 0.8);
 }
+.fas {
+    font-size: 2rem;
+    padding-right: 1.2rem;
+}
+.about_homepage {
+    background: rgba(52, 58, 64, 0.8);
+}
+
 @media only screen and (max-width:990px) {
     .X_padding {
         padding: 0 5%;
