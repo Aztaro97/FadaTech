@@ -10,7 +10,8 @@ nav {
     padding-right: 1.2rem;
 }
 .about_homepage {
-    background: rgba(52, 58, 64, 0.8);
+    background-image: url('/images/bgimage.jpg');
+    background-size:cover;
 }
 
 @media only screen and (max-width:990px) {
